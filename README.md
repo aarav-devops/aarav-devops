@@ -1,4 +1,4 @@
-[![MasterHead](https://granulate.io/wp-content/uploads/2020/09/Evolving-DevOps-Towards-Performance-Optimization-1440x425-1.png)
+![MasterHead](https://granulate.io/wp-content/uploads/2020/09/Evolving-DevOps-Towards-Performance-Optimization-1440x425-1.png)
 
 <h1 align="center">Hi 👋, I'm Aarav</h1>
 <h3 align="center">Bridging development and operations for streamlined, efficient software delivery.</h3>
